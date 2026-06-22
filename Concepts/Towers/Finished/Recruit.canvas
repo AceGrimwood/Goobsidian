@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"22934e2e23ff8ed3","type":"text","text":"Basic beginner tower","x":-160,"y":-280,"width":250,"height":60},
 		{"id":"4b0eb5dfdb505a24","type":"text","text":"Pistol on earlier levels, semi auto on later levels","x":-480,"y":-140,"width":250,"height":57},
-		{"id":"c4014e7474738663","x":-580,"y":-40,"width":282,"height":191,"type":"file","file":"Pasted image 20260622204332.png"}
+		{"id":"c4014e7474738663","type":"file","file":"Pasted image 20260622204332.png","x":-580,"y":-40,"width":282,"height":191}
 	],
 	"edges":[]
 }
