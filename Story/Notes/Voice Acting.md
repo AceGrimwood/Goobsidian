@@ -1,0 +1,3 @@
+We cant have voice acting on every interaction of the player, but cutscenes should still use some. Voice actors can just as well just be us... it really doesnt matter. I have some VA experience...
+
+Voice acting should be differentiated between thinking and talking for certain scenes
