@@ -1,0 +1,371 @@
+## **Starter Units**
+
+- **Soldier**
+    - Fires bullets at medium range, then stops to reload
+    - Reliable, cheap to produce
+    - Gains a special ability when in a stressful situation
+- **Sniper**
+    - Cheap, high-range unit with slow fire rate and great damage
+    - Deals extra damage to shield HP
+- **Demoman**
+    - Throws grenades with small explosion radius
+    - Very short range, but great damage and cheap price
+
+---
+
+## **Credz Units**
+
+- **Cryomancer**
+    - Deals **no damage**; freezes enemies in a small area around the target
+    - Tough against **[ICE]** enemies; tough + great damage against **[BLAZE]** enemies
+    - Medium-ranged, AoE, fast-attacking stationary debuffer/support
+    - Freeze effect gets stronger with tiers; gains a large, long-ranged freeze ability at later tiers
+    - Strictly support — relies on other units for damage
+- **Farmer**
+    - Gives paychecks while idle
+    - Increased paycheck money and health from attacking enemies
+    - Seeds plants that make money but disappear
+    - Tough against ranged enemies
+    - Melee, fast-attacking stationary DPS/tank/economy generalist
+    - Regains health and shields from attacking
+- **Businessman** — 450 Credz
+    - Produces money every second and increases **global income**
+    - Units within range increase money and income gained
+    - Rate of gaining money decreases over time
+    - Short-ranged stationary economy unit; cannot deal damage
+- **Engineer**
+    - **[Moving]** moves toward enemies
+    - When enemies are in range, builds offensive robots and defensive walls
+    - Strong against ranged enemies
+    - Long-ranged, fast-attacking moving DPS/support/spawner
+    - Summons get stronger with tiers; limited lifespan as a moving unit
+- **Destructor**
+    - Fires high-damage rockets at long range; takes a while to reload
+    - Rockets deal extra non-explosive damage to enemies in the center of the explosion
+    - Long-ranged, AoE, burst-damage stationary DPS/anti-air
+    - Massive damage from a large distance; struggles with single targets
+- **Barrager**
+    - Small range, great health
+    - Blasts enemies with a short bullet barrage, dealing high damage and **burning** them alive
+    - Strong against ranged enemies
+    - Close-ranged, fast-attacking stationary DPS/debuffer/rush unit
+    - **Permanent burning effect** on herself — nearly guaranteed death over time
+- **Ignitor**
+    - Short range with high AoE damage
+    - Applies fire that slows down enemies and deals extra damage
+    - Great damage against **[GRANITE]** enemies
+    - Medium-ranged AoE stationary debuffer/DPS
+    - Flame effect gets stronger with tiers; lackluster single-target damage
+- **Brawler**
+    - **[Moving]** moves toward enemies
+    - Very low cooldown and cost
+    - Possesses low health and deals very weak damage to enemies
+
+---
+
+## **Trophy Units**
+
+- **Outlaw**
+    - Gains extra money from shooting enemies (given when reloading)
+    - Calls **Cowboys** to help fight enemies
+    - Strong against **[ZOMBIE]** enemies
+    - Ranged economy DPS unit; summons free units at the base
+- **Recon**
+    - **[Hybrid]** unique movement; spawns at your position and is temporarily stealthed
+    - Fires at enemies in a short burst
+    - Very short range and low health
+    - Medium-ranged, fast-attacking hybrid DPS/support
+    - Can throw **Stun Bombs** at first enemies encountered (does not recharge)
+    - Expensive costs; short-lived usage
+- **Trapper**
+    - Throws traps on the ground toward enemies
+    - Strong against **[MECHA]** enemies
+- **Dissolver**
+    - **[Moving]** moves toward enemies
+    - Charges weapon before firing multiple dissolving shots
+    - Shots apply a **dissolving effect** that greatly damages enemies over time
+    - Long-ranged, multi-target, burst-damage moving DPS/debuffer
+    - Short lifespan; among the most expensive costs in the game
+- **Lookout**
+    - Very, very far range
+    - Shoots faster as the targeted enemy gets closer
+    - Extremely long-ranged, single-target, fast-firing stationary DPS/support/anti-air
+    - Weak damage output offset by massive range; becomes "heroic" at max tier
+- **Saboteur**
+    - Super slow fire rate, average-high damage
+    - Tracks an enemy, then fires a sabotaging bolt that **greatly weakens enemies**
+    - Long-ranged, single-target stationary debuffer
+    - Low placement cap, incredibly slow attack rate, high cost, almost no DPS on its own
+- **General**
+    - Support unit **does not attack enemies**
+    - Uses abilities to boost fire rate of nearby units
+    - Very long-ranged stationary support
+    - Long-ranged small buff ability + short-ranged large buff ability (separate cooldowns)
+- **Radar**
+    - **[Building]** spawned on building placement areas
+    - Gives a **range boost** to all units within its range
+    - Ability increases the range boost and sends a broken signal that debuffs **[MECHA]** enemies
+- **Valkyrie**
+    - High durability, unlikely to be targeted
+    - Throws a spear that **pierces through enemies** and knocks back the final target
+    - Massively tough against **[Wave/Surge/Puddle Attacks]**
+
+---
+
+## **Token Units**
+
+- **Turreter**
+    - Cost: 3600 Credz + 8 Tokens
+    - Tough, with medium range and average fire rate
+    - Commands a large turret that takes time to rev up but deals high damage
+    - Tough against **[Wave Attacks]**
+    - Long-ranged, fast-attacking stationary DPS/support/tank/generalist
+    - Gains incredibly powerful stats and a **devastating Toxic Grenade ability** with infinite range at higher ranks
+    - Most expensive unit to fully upgrade
+- **Aviator**
+    - Cost: 3750 Credz + 20 Tokens
+    - **[Hybrid]** unique movement; flies in the air
+    - Shoots enemies below with bullets and grenades
+    - Ability makes Aviator more powerful but stationary
+    - Strong against **[FLOATING]** enemies
+    - Follows players directly; effectively unlimited range anywhere on the map
+- **Airstrike**
+    - Cost: 3900 Credz + 12 Tokens
+    - Places a sleeping unit that doesn't attack
+    - When ability is used, calls in a plane that drops a bomb dealing **extreme damage** to enemies
+    - Infinite-ranged, one-time-use-per-buy AoE hybrid DPS/support
+    - Longest cooldown in the game; incredibly high cost for essentially one ability
+- **Blaster**
+    - Cost: 6000 Credz + 16 Tokens
+    - **[Cliff]** spawned on cliffs
+    - Fires a quick, powerful blast that **bypasses enemies' Defense and Armor**
+    - Gets stronger after taking enough damage
+    - Extremely long-ranged, burst-damage AoE high-ground DPS/support
+    - Nearly invulnerable on high ground; incredibly slow attack rate, very expensive, low placement cap
+- **Ninja**
+    - Cost: 6750 Credz + 20 Tokens
+    - **[Moving]** moves toward enemies
+    - Throws shurikens to pierce through enemies
+    - Cloaked upon spawning; on first death, revives and recloaks
+    - Attacks faster while cloaked
+    - Long-ranged, fast-attacking moving DPS/support/rusher/generalist
+    - Smoke Bomb ability can cloak himself and nearby units; low placement cap
+- **Constructor**
+    - Cost: 17000 Credz + various tokens
+    - Uses a melee attack when enemies are near; when enemies are far, deploys several different buildings (each with specific purpose and cooldown)
+    - Infinite-ranged stationary support/summoner
+    - Can summon constructs anywhere on the map on-command
+    - Summons are stronger, varied, and potent — fulfills DPS, tank, and support roles
+    - Cannot do anything directly; requires player control
+- **Rocker**
+    - Cost: 19000 Credz + various tokens
+    - Support unit; creates a small sonic wave that damages and stuns enemies in inner range
+    - Passively boosts the fire rate of all units in range
+    - Ability: **"Sonic Boom"** stuns enemies in a large radius, but also stuns units in the radius for a few seconds
+    - Long-ranged, fast-firing AoE stationary support/debuffer
+    - Requires careful precision; a botched ability could get everyone killed
+- **Mecha**
+    - Cost: 12000 Credz + various tokens
+    - **[Moving]** — large mech with high fire rate, very high defense, and amazing damage output
+    - Deals extra damage to Shield HP
+    - Medium-ranged, fast-attacking moving DPS/tank
+    - Some of the highest stats in the entire game; excels in every area
+    - Can duel incredibly dangerous bosses; high cost and low placement cap
+
+---
+
+## **Special Units**
+
+- **Swordfighter**
+    - Requires: Purchase before going offsale in Halloween 2021 OR reach 30% Completion
+    - **[Moving]** moves toward enemies
+    - Destroys groups of enemies with a sword, applying a damaging status effect
+    - Very high damage, but very low health
+    - Immune to **[Wave Attacks]**
+- **Juggernaut**
+    - Requires: Triumph Toxic Sewers Normal OR Dump 20 times
+    - **[Moving]** slow, but has high defense and high damage
+    - Made to protect other units
+    - Massively tough against **[Wave Attacks]** and **[Surge Attacks]**
+    - Melee, burst-damage AoE moving tank/support
+    - Incredible health, shield, defense, and resistances; very slow and almost destined to die
+- **Noobfighter**
+    - Requires: Beat Doomspire and Heights on Burdensome
+    - **[Moving]** high damage and low range
+    - Average swing rate; gets faster for every consecutive hit
+    - When swing rate is fast enough, performs a **Lunge attack**
+    - 9 alternate swords "upgrade" to switch between them (default sword is strong against Traited enemies)
+    - Melee moving rusher; can swap stats and abilities between different weapons
+- **Glazier**
+    - Requires: Beat Snowfield Burdensome Mode
+    - Only one rank, but becomes stronger as it deals damage to enemies
+    - Freezes enemies that it shoots; slows enemies with enough damage dealt
+    - Tough against **[ICE]** and **[BLAZE]** enemies
+    - Ranged stationary DPS/debuffer; stats scale from weak to extremely long-range powerhouse
+    - Requires setup and care; very low placement cap
+- **Snowman**
+    - Requires: Beat Frosted Mines' Winter Mode OR complete 5 missions on Blizzard
+    - Low health, good range and damage
+    - Fires ice cubes at enemies, slowing them down and reducing their attack rate
+    - Strong against ranged enemies and **[BLAZE]** enemies
+    - Horribly low placement cap; cannot target specific units
+- **Chesspiece**
+    - Requires: Beat Chessboard Burdensome Mode
+    - **[Hybrid]** unique movement; spawns at a teleporter but won't move or attack
+    - Use its ability and it will stomp at your position, dealing damage to enemies
+    - Strong against Traited enemies
+    - Infinite-ranged burst-damage hybrid DPS/tank/support
+    - Deals bonus damage to and takes less damage from Traited enemies
+    - Requires constant player attention to attack or move
+- **Pumpkin**
+    - Requires: Complete 8 manor missions
+    - **[Moving]** rolls quickly toward enemies
+    - Explodes and deals massive damage, setting enemies on fire
+    - Reflects any projectiles it is directly hit by
+    - Immune to all status effects
+- **Mudsplatter**
+    - Requires: Beat Mudded Cavern on Burdensome
+    - Above-average health; immunity to all status effects
+    - Covers enemies in mud, slowing them down and making them more vulnerable to other status effects
+    - When idle, covers nearby units in mud, making them immune to status effects for a few seconds
+    - Tough against Traited enemies
+    - Long-ranged, fast-firing AoE stationary debuffer/DPS
+    - Applies nearly every status effect/debuff; low placement cap; expensive final upgrade
+- **Pulsar**
+    - Requires: Beat Flooded Cavern
+    - Creates pulses around itself, damaging and slowing enemies
+    - Enemies closer to Pulsar are damaged more times
+    - Dealing damage fills the **Charge Bar**; using ability drains the bar but greatly increases fire rate (becoming slower as the bar drains)
+    - Medium-ranged, fast-attacking AoE stationary DPS/generalist
+    - Attacking/killing enemies during the boost extends its duration
+- **Medic**
+    - Requires: Restored Unit Badge (Retro WTD) OR Dump 223 times OR Triumph Grasslands and Jungle on Burdensome
+    - Fires at weakened units to heal them; will not heal units with full health
+    - Medium-ranged, fast-firing support unit
+    - Heals health, recovers shields, and can increase stats past their limit
+    - Later gains ability to increase health and shields of all nearby units and give immunity to certain status effects
+    - Horribly low placement cap; cannot target specific units; cannot deal damage to enemies
+- **Tazer**
+    - Requires: Scored Time Plus Badge
+    - **[Hybrid]** unique movement; spawns at your position
+    - Stuns enemies with electrifying AoE bolts that can chain to nearby enemies
+    - Larger enemies are stunned for less time
+    - Very long-ranged, fast-firing hybrid DPS/debuffer/rusher
+    - Later gains ability to summon **Lightning Clouds** that damage and stun enemies passively
+    - Odd attacking/moving system only moves to enemies in outer range, attacks within inner range
+- **Reaper**
+    - Requires: Halloween 2021 Badge OR beat Manor Burdensome Mode
+    - Summons zombies from the ground
+    - Each zombie is weak on its own, but large groups are very powerful
+    - When hit, cloaks for a short duration, becoming invisible to enemies
+    - Long-ranged stationary summoner/support/generalist
+    - Zombies become stronger in stats and amount with tiers; cripplingly low placement cap
+- **Enchantress**
+    - Requires: Beat Halloween 2022 Burdensome Mode or complete 5 manor missions
+    - Possesses multiple abilities related to spookiness and the undead
+    - Some apply valuable abilities to units; others summon zombies or maggots
+    - Insanely tough against **[ZOMBIE]** enemies
+    - Very long-ranged stationary debuffer/summoner/supporter
+    - Long cooldowns and expensive costs; only unit that gives certain buffs
+- **SWAT**
+    - Requires: True Defender Badge (Beat Arduous Mode)
+    - **[Building]** spawned on building placement areas
+    - Occasionally spawns units from the building
+    - Upgrades increase the amount and variety of units, boost stats, and make them spawn faster
+    - Units AND the building are affected by accessories and other effects
+    - Building spawner/DPS/anti-air; passively summons even if no enemies are alive
+    - Cannot attack by itself; somewhat high costs but pays off quickly
+- **Rifler**
+    - Requires: Complete Rifler's Challenge
+    - Below-average fire rate; very high range and great damage
+    - Fires piercing bullets that cut through enemies, applying a permanent **"bleeding"** effect that infinitely stacks
+    - Horrendous attack rate (slowest in the game); piercing damage rapidly decreases per enemy hit
+    - Bleed is powerful but usually only useful on fast-attacking units
+
+---
+
+## **Alt Units (Alternate Versions)**
+
+- **Sargeant** (Soldier's Alt)
+    
+    - Requires: Triumph Wrecked or Complete the Mystery-Man Quest
+    - Fires bullets in a burst at medium-short range before stopping
+    - Cheap to spawn; upgrade on the field via two **Upgrade Paths**
+    - Greatly benefits from being around other Sergeants
+    - Special interaction with Soldier
+    - Strong against **[MECHA]** enemies
+    - Two paths: close-range high-damage shield piercing vs. map-wide DPS powerhouse
+- **Watchtower** (Sniper's Alt)
+    
+    - Requires: Triumph Wrecked or Complete the Mystery-Man Quest
+    - Cost: 300 Credz
+    - **[Cliff]** units can be spawned on this large tower, but requires space to place
+    - Special interaction with Sniper
+    - Disappears after a long while
+    - Best tower if you don't have cliffs on your map; timed disappears when time runs out, taking cliff units with it
+- **Incendiarier** (Demoman's Alt)
+    
+    - Requires: Triumph Wrecked or Complete the Mystery-Man Quest
+    - Cost: 250 Credz + 15 Red Tokens + 25 Tokens
+    - **[Cliff]** loads bombs and dynamites into a large cannon
+    - When ability is activated, repeatedly fires loaded bombs at enemies until no enemies or bombs remain
+    - Special interaction with Demoman
+    - Strong against **[GRANITE]**; tough against **[BLAZE]**
+    - Two upgrade paths: powerful but slow dynamites vs. showering enemies with dozens of bombs
+- **Verglasar** (Cryomancer's Alt)
+    
+    - Requires: Triumph Wrecked or Complete the Mystery-Man Quest
+    - Cost: 600 Credz + 15 Blue Tokens + 60 Tokens
+    - On placement, creates a frost explosion with 20% freeze resistance bypass
+    - Freezes + damages enemies with Ice Blade melee attack, applying **"Ice Shatter"**
+    - When enemies are outside melee range, launches small ice cubes toward them
+    - Special interaction with Cryomancer/Glazier
+    - Strong against **[BLAZE]** enemies
+    - Can serve as powerhouse tank or support ranged unit
+- **Agent** (Businessman's Alt)
+    
+    - Requires: Triumph Wrecked or Complete the Mystery-Man Quest + place 8 Farmer V's, 4 Businessmen IV, and 2 Bank IV's on Burdensome+ all in one game
+    - Cost: 1000 Credz + 15 Black Tokens + 25 Tokens
+    - Makes money using a laptop; fires at enemies with a rifle
+    - Gains extra cash with each shot and fills the **Income Bar**
+    - When Income bar is full, increases global income
+    - Special interaction with Farmer
+    - Strong against Traited enemies
+    - Two paths: money production for user vs. secondary income for team
+- **Agronomist** (Farmer's Alt)
+    
+    - Requires: Triumph Wrecked or Complete the Mystery-Man Quest + place 8 Farmer V's, 4 Businessmen IV, and 2 Bank IV's on Burdensome+ all in one game
+    - Cost: 800 Credz + 20 Tokens + 15 Green Tokens + 5 Black Tokens
+    - Short range and above-average health
+    - Many activatable abilities creating different types of **Plants/Buildings**
+    - Plants lose water every second and must be hydrated with an ability or they take damage (uses Water; refill with money)
+    - Plants increase cash gain the longer they stay alive
+    - Cannot attack enemies directly unless paired with the **Bag of Seeds** Trinket
+- **Kindler** (Barrager/Ignitor's Alt)
+    
+    - Requires: Triumph Wrecked or Complete the Mystery-Man Quest
+    - Cost: 1600 Credz + 30 Red Tokens + 30 Tokens
+    - Great health and range
+    - Creates a ring of flames that burns any enemies within it
+    - Strong against **[GRANITE]** enemies
+    - Two upgrade paths: near-wide-map range slowdown vs. short-range extreme slowdown (bypasses all fire immunities with **Blazing**)
+    - Receives far less range from range-increasing accessories
+- **Spawner** (Engineer's Alt)
+    
+    - Requires: Triumph Wrecked or Complete the Mystery-Man Quest
+    - Cost: 3900 Credz + 15 Red Tokens + 45 Black Tokens + 15 Blue Tokens + 1 Token + 200 Tokens
+    - **[Building]** constantly summons several units at all available moving unit spawns
+    - Use abilities to change the units' **trait targeting**, allowing them to adapt to the current situation
+    - High in-game cost; only one active at a time
+    - Best used on maps where unit spawns are not close to good placement spots
+    - Cannon abilities change depending on accessory (wave attack that slows vs. explosion that sabotages)
+- **Artificier** (Engineer's Alt)
+    
+    - Requires: Triumph Wrecked or Complete the Mystery-Man Quest + have Engineer V deploy her maximum amount of buildings in a Burdensome+ game
+    - Cost: 1200 Credz + 15 Black Tokens + 5 Blue Tokens + 30 Tokens
+    - **[Hybrid]** spawns at a teleporter; use Run ability and it will run to you
+    - Gains **METAL** from enemies; use metal to spawn buildings and upgrade/repair them
+    - Metal can repair or boost nearby Robots & Walls
+    - Strong against **[GRANITE]** enemies; abilities against Traited enemies
+    - Far more offensive Engineer requiring setup and micro
+    - Buildings include Sentinels (high DPS), Menders (heal), Rocket Launchers (spikes that slow), and Overchargers (boost moving units)
