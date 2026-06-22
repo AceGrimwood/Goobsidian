@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"00b2539d911d2e89","x":-38,"y":-19,"width":218,"height":60,"type":"text","text":"Basic scout like tower"},
+		{"id":"e6f03797c4f8c824","x":-400,"y":365,"width":241,"height":163,"type":"file","file":"Pasted image 20260622204332.png"},
+		{"id":"9d54e36fa1d71452","x":-147,"y":365,"width":218,"height":163,"type":"file","file":"Pasted image 20260622205044.png"}
+	],
+	"edges":[]
+}
