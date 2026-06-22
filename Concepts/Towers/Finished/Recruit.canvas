@@ -11,7 +11,8 @@
 		{"id":"508fc9c392259d69","type":"file","file":"_images/Pasted image 20260622205541.png","x":200,"y":-580,"width":200,"height":200},
 		{"id":"cf22318e0839b44f","type":"file","file":"_images/Pasted image 20260622205513.png","x":-34,"y":-590,"width":210,"height":210},
 		{"id":"680baa48a348fa34","type":"text","text":"B: Basic Scout","x":-15,"y":-300,"width":173,"height":60},
-		{"id":"80fdced213fb3c4e","type":"text","text":"C: Cool Cyber agent guy","x":427,"y":-120,"width":250,"height":60}
+		{"id":"80fdced213fb3c4e","type":"text","text":"C: Cool Cyber agent guy","x":427,"y":-120,"width":250,"height":60},
+		{"id":"5ca797a675219eec","x":431,"y":101,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"f709bf984b9daf3e","fromNode":"0452773034551e52","fromSide":"bottom","toNode":"e6f03797c4f8c824","toSide":"top"},
@@ -24,6 +25,7 @@
 		{"id":"1946ee33d4546e43","fromNode":"680baa48a348fa34","fromSide":"left","toNode":"1d29b624a8d90207","toSide":"bottom"},
 		{"id":"4715cbd90ca28d68","fromNode":"680baa48a348fa34","fromSide":"top","toNode":"cf22318e0839b44f","toSide":"bottom"},
 		{"id":"7adbf9ea565009fe","fromNode":"680baa48a348fa34","fromSide":"right","toNode":"508fc9c392259d69","toSide":"bottom"},
-		{"id":"3da45f8833c7eb60","fromNode":"652b1e6684bda5f8","fromSide":"right","toNode":"80fdced213fb3c4e","toSide":"left"}
+		{"id":"3da45f8833c7eb60","fromNode":"652b1e6684bda5f8","fromSide":"right","toNode":"80fdced213fb3c4e","toSide":"left"},
+		{"id":"4eb4ec7fa91b931e","fromNode":"80fdced213fb3c4e","fromSide":"bottom","toNode":"5ca797a675219eec","toSide":"top"}
 	]
 }
