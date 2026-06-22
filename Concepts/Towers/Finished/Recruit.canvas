@@ -12,7 +12,7 @@
 		{"id":"cf22318e0839b44f","type":"file","file":"_images/Pasted image 20260622205513.png","x":-34,"y":-590,"width":210,"height":210},
 		{"id":"680baa48a348fa34","type":"text","text":"B: Basic Scout","x":-15,"y":-300,"width":173,"height":60},
 		{"id":"80fdced213fb3c4e","type":"text","text":"C: Cool Cyber agent guy","x":427,"y":-120,"width":250,"height":60},
-		{"id":"5ca797a675219eec","x":431,"y":101,"width":250,"height":60,"type":"text","text":""}
+		{"id":"5ca797a675219eec","x":431,"y":101,"width":250,"height":60,"type":"text","text":"bob"}
 	],
 	"edges":[
 		{"id":"f709bf984b9daf3e","fromNode":"0452773034551e52","fromSide":"bottom","toNode":"e6f03797c4f8c824","toSide":"top"},
