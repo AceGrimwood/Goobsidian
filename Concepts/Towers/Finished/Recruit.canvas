@@ -2,6 +2,7 @@
 	"nodes":[
 		{"id":"22934e2e23ff8ed3","type":"text","text":"Basic beginner tower","x":-160,"y":-280,"width":250,"height":60},
 		{"id":"4b0eb5dfdb505a24","type":"text","text":"Pistol on earlier levels, semi auto on later levels","x":-480,"y":-140,"width":250,"height":57},
+<<<<<<< HEAD
 		{"id":"c4014e7474738663","type":"file","file":"Pasted image 20260622204332.png","x":-637,"y":81,"width":282,"height":191},
 		{"id":"8dd627cac7f53130","type":"file","file":"Pasted image 20260622205044.png","x":-286,"y":84,"width":251,"height":188},
 		{"id":"6826a5be226eb710","type":"text","text":"Design","x":-85,"y":-400,"width":101,"height":60},
@@ -12,6 +13,9 @@
 		{"id":"e3ab2ded4543a413","type":"file","file":"Pasted image 20260622205513.png","x":91,"y":-940,"width":192,"height":192},
 		{"id":"f7557c5efe27f3e6","type":"file","file":"Pasted image 20260622205541.png","x":-380,"y":-940,"width":191,"height":191},
 		{"id":"609921f91f6e3bc5","type":"file","file":"Pasted image 20260622205252.png","x":-960,"y":-536,"width":210,"height":239}
+=======
+		{"id":"c4014e7474738663","type":"file","file":"Pasted image 20260622204332.png","x":-580,"y":-40,"width":282,"height":191}
+>>>>>>> origin/main
 	],
 	"edges":[
 		{"id":"ee7ce01a31a0a0b7","fromNode":"4b0eb5dfdb505a24","fromSide":"bottom","toNode":"c4014e7474738663","toSide":"top"},
