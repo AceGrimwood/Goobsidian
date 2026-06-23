@@ -18,7 +18,9 @@
 		{"id":"df88262d8ba3c2d0","type":"text","text":"A: Basic Agent thing","x":-444,"y":-560,"width":250,"height":60},
 		{"id":"913b6fbefb307606","x":-194,"y":-379,"width":199,"height":199,"type":"file","file":"Pasted image 20260623213634.png"},
 		{"id":"0ab46f87b14d2033","x":50,"y":-366,"width":172,"height":186,"type":"file","file":"Pasted image 20260623213829.png"},
-		{"id":"5049ff27b3519055","x":249,"y":-429,"width":126,"height":126,"type":"file","file":"Pasted image 20260623214049.png"}
+		{"id":"5049ff27b3519055","x":249,"y":-429,"width":126,"height":126,"type":"file","file":"Pasted image 20260623214049.png"},
+		{"id":"aa9324e01de16d13","x":330,"y":-701,"width":91,"height":91,"type":"file","file":"Pasted image 20260623214454.png"},
+		{"id":"fb843043d93fa4ed","x":447,"y":-682,"width":102,"height":102,"type":"file","file":"Pasted image 20260623214511.png"}
 	],
 	"edges":[
 		{"id":"f709bf984b9daf3e","fromNode":"0452773034551e52","fromSide":"bottom","toNode":"e6f03797c4f8c824","toSide":"top"},
