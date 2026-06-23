@@ -17,8 +17,8 @@
 		{"id":"5e16ecb110fe1964","type":"file","file":"_images/Pasted image 20260622205252.png","x":-444,"y":-420,"width":211,"height":240},
 		{"id":"df88262d8ba3c2d0","type":"text","text":"A: Basic Agent thing","x":-444,"y":-560,"width":250,"height":60},
 		{"id":"913b6fbefb307606","x":-194,"y":-379,"width":199,"height":199,"type":"file","file":"Pasted image 20260623213634.png"},
-		{"id":"0ab46f87b14d2033","x":97,"y":-379,"width":172,"height":186,"type":"file","file":"Pasted image 20260623213829.png"},
-		{"id":"5049ff27b3519055","x":284,"y":-442,"width":126,"height":126,"type":"file","file":"Pasted image 20260623214049.png"}
+		{"id":"0ab46f87b14d2033","x":50,"y":-366,"width":172,"height":186,"type":"file","file":"Pasted image 20260623213829.png"},
+		{"id":"5049ff27b3519055","x":249,"y":-429,"width":126,"height":126,"type":"file","file":"Pasted image 20260623214049.png"}
 	],
 	"edges":[
 		{"id":"f709bf984b9daf3e","fromNode":"0452773034551e52","fromSide":"bottom","toNode":"e6f03797c4f8c824","toSide":"top"},
