@@ -26,7 +26,8 @@
 		{"id":"19096f54e7aa1bad","type":"file","file":"_images/Untitled3_20260623110104.png","x":-1060,"y":-855,"width":590,"height":590},
 		{"id":"680baa48a348fa34","type":"text","text":"B: Basic Scout","x":-163,"y":-760,"width":173,"height":60},
 		{"id":"652b1e6684bda5f8","type":"text","text":"Design","x":-91,"y":-640,"width":96,"height":60},
-		{"id":"6530f6e8c52d214c","x":-58,"y":135,"width":250,"height":60,"type":"text","text":"Hi from ios"}
+		{"id":"6530f6e8c52d214c","x":-58,"y":135,"width":250,"height":60,"type":"text","text":"Hi from ios"},
+		{"id":"a406c51a7e28b71e","x":-62,"y":343,"width":250,"height":60,"type":"text","text":"No"}
 	],
 	"edges":[
 		{"id":"f709bf984b9daf3e","fromNode":"0452773034551e52","fromSide":"bottom","toNode":"e6f03797c4f8c824","toSide":"top"},
@@ -49,6 +50,7 @@
 		{"id":"4c862f429c6c694a","fromNode":"80fdced213fb3c4e","fromSide":"right","toNode":"57868dd35dcec1c9","toSide":"left"},
 		{"id":"d427078000e52a73","fromNode":"80fdced213fb3c4e","fromSide":"top","toNode":"1041f282b0d0d733","toSide":"right"},
 		{"id":"236e681e12ffce51","fromNode":"c090faf0c8caddf7","fromSide":"top","toNode":"544a4f0ce2983965","toSide":"bottom"},
-		{"id":"7acd59a00ec6f5af","fromNode":"544a4f0ce2983965","fromSide":"left","toNode":"6530f6e8c52d214c","toSide":"right"}
+		{"id":"7acd59a00ec6f5af","fromNode":"544a4f0ce2983965","fromSide":"left","toNode":"6530f6e8c52d214c","toSide":"right"},
+		{"id":"5855cde496c49f2e","fromNode":"6530f6e8c52d214c","fromSide":"bottom","toNode":"a406c51a7e28b71e","toSide":"top"}
 	]
 }
